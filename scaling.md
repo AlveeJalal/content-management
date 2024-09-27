@@ -7,6 +7,7 @@ by upgrading hardware components to improve capabilities.
 - **Horizontal Scaling** means adding more machines to help
 balance the workload or handle an increased workload.
 
-![Scaling Image](https://miro.medium.com/v2/resize:fit:1122/1*gee5Zkih2dZ7tYWRgmRbkw.png)
+![Scaling image](https://github.com/user-attachments/assets/21f1b90e-6de3-4544-bfb9-b6b91eaea552)
+
 
 ---
